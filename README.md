@@ -8,6 +8,7 @@ The idea of this GitHub is to share my experience as Data Analyst and how I stru
 - Data Base
 - Data Pipelines
 - Data Models
+- Data Governance
 - ...
 
 
